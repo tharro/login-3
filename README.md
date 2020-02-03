@@ -5,5 +5,6 @@ Animated Login Screen UI Design
 
 ```
 npm install
-
 ```
+
+Design by Tharo @2020
