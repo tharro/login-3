@@ -6,5 +6,15 @@ Animated Login Screen UI Design
 ```
 npm install
 ```
+- Run Android:
+
+```
+react-native run-android
+```
+
+- Run IOS:
+```
+react-native run-ios
+```
 
 Design by Tharo @2020
